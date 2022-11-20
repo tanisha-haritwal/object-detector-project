@@ -1,0 +1,27 @@
+body{
+background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+a{
+font-size: 20px;
+color: crimson;
+font-weight: bolder;
+font-style: italic;
+}
+.back{
+float: right;
+}
+.status1{
+font-size:25px;
+}
+canvas{
+border:3px solid red;
+padding: 10px;
+box-shadow:5px 5px 5px blue;
+margin:20px;
+}
